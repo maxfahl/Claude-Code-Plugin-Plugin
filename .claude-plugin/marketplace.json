@@ -1,0 +1,34 @@
+{
+  "name": "maxfahl",
+  "owner": {
+    "name": "Max Fahl",
+    "email": "max@fahl.io",
+    "url": "https://maxfahl.com"
+  },
+  "metadata": {
+    "description": "Max Fahl's curated collection of Claude Code plugins",
+    "version": "1.0.0",
+    "homepage": "https://github.com/maxfahl/claude-plugins"
+  },
+  "plugins": [
+    {
+      "name": "cc-plugins",
+      "source": "./plugins/cc-plugins",
+      "description": "Meta-plugin for creating, validating, and maintaining Claude Code plugins",
+      "version": "1.0.0",
+      "author": {
+        "name": "Max Fahl",
+        "url": "https://github.com/maxfahl"
+      },
+      "category": "Development Engineering",
+      "homepage": "https://github.com/maxfahl/claude-plugins/tree/main/plugins/cc-plugins",
+      "keywords": [
+        "plugin-development",
+        "validation",
+        "scaffolding",
+        "meta-plugin",
+        "tools"
+      ]
+    }
+  ]
+}
