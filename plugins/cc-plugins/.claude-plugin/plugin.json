@@ -1,0 +1,22 @@
+{
+  "name": "cc-plugins",
+  "version": "1.0.0",
+  "description": "A meta-plugin for creating, validating, debugging, and maintaining Claude Code plugins with official specification compliance",
+  "author": {
+    "name": "Max Fahl",
+    "email": "max@fahl.io",
+    "url": "https://maxfahl.com"
+  },
+  "homepage": "https://github.com/maxfahl/cc-plugins",
+  "repository": "https://github.com/maxfahl/cc-plugins",
+  "license": "MIT",
+  "keywords": [
+    "plugin",
+    "development",
+    "validation",
+    "scaffolding",
+    "debugging",
+    "claude-code",
+    "meta-plugin"
+  ]
+}

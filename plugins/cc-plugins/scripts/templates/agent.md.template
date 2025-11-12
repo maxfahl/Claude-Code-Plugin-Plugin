@@ -1,0 +1,25 @@
+---
+description: {{description}}
+tools: {{tools}}
+---
+
+# {{name}}
+
+This is a Claude Code agent template. Implement your agent logic here.
+
+## Overview
+
+{{description}}
+
+## Agent Behavior
+
+Describe the behavior and capabilities of this agent.
+
+## Tools
+
+This agent has access to the following tools:
+{{tools}}
+
+## Implementation
+
+Add your agent implementation and logic here.

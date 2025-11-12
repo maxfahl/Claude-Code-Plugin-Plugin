@@ -1,0 +1,20 @@
+---
+description: {{description}}
+allowed-tools: {{allowed_tools}}
+---
+
+# {{name}}
+
+This is a Claude Code command template. Implement your command logic here.
+
+## Overview
+
+{{description}}
+
+## Usage
+
+Replace this with actual command documentation and usage examples.
+
+## Implementation
+
+Add your command implementation and logic here.

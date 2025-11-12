@@ -1,0 +1,10 @@
+{
+  "hooks": [
+    {
+      "event": "plugin.initialized",
+      "command": "${CLAUDE_PLUGIN_ROOT}/scripts/{{hook_script_name}}.sh"
+    }
+  ],
+  "description": "{{description}}",
+  "version": "1.0"
+}

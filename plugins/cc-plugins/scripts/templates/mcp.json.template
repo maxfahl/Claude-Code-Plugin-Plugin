@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "{{server_name}}": {
+      "command": "{{server_command}}",
+      "args": [],
+      "env": {},
+      "disabled": false,
+      "cwd": "${CLAUDE_PLUGIN_ROOT}"
+    }
+  },
+  "description": "{{description}}"
+}

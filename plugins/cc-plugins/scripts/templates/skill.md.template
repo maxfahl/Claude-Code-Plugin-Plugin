@@ -1,0 +1,30 @@
+---
+name: {{name}}
+description: {{description}}
+allowed-tools: {{allowed_tools}}
+---
+
+# {{name}}
+
+This is a Claude Code skill template. Implement your skill here.
+
+## Overview
+
+{{description}}
+
+## Purpose
+
+Explain the purpose and capabilities of this skill.
+
+## Allowed Tools
+
+This skill can use the following tools:
+{{allowed_tools}}
+
+## Implementation
+
+Add your skill implementation and logic here.
+
+## Examples
+
+Provide usage examples and test cases here.
