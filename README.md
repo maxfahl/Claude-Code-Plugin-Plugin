@@ -46,7 +46,7 @@ This marketplace provides professionally maintained Claude Code plugins that enh
 Add this marketplace to your Claude Code installation:
 
 ```bash
-/plugin marketplace add maxfahl/Claude-Code-Plugin-Plugin
+/plugin marketplace add maxfahl/maxfahl-claude-market-place
 ```
 
 That's it! You can now browse and install any plugin from this collection.
@@ -230,7 +230,7 @@ Contributions are welcome! Here's how you can help:
 ```bash
 # Clone the repository
 git clone https://github.com/maxfahl/maxfahl-claude-market-place.git
-cd Claude-Code-Plugin-Plugin
+cd maxfahl-claude-market-place
 
 # Make your changes
 # ...
