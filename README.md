@@ -260,8 +260,7 @@ Be respectful, inclusive, and constructive in all interactions.
 
 ### Stay Connected
 
-- 🐦 **Twitter** - [@maxfahl](https://twitter.com/maxfahl)
-- 💼 **LinkedIn** - [Max Fahl](https://linkedin.com/in/maxfahl)
+- 🐦 **X** - [@heyitsfahl](https://x.com/heyitsfahl)
 - 🔗 **GitHub** - [@maxfahl](https://github.com/maxfahl)
 
 ---
