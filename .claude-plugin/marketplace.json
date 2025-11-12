@@ -8,7 +8,7 @@
   "metadata": {
     "description": "Max Fahl's curated collection of Claude Code plugins",
     "version": "1.0.0",
-    "homepage": "https://github.com/maxfahl/Claude-Code-Plugin-Plugin"
+    "homepage": "https://github.com/maxfahl/maxfahl-claude-market-place"
   },
   "plugins": [
     {
@@ -21,7 +21,7 @@
         "url": "https://github.com/maxfahl"
       },
       "category": "Development Engineering",
-      "homepage": "https://github.com/maxfahl/Claude-Code-Plugin-Plugin/tree/main/plugins/cc-plugins",
+      "homepage": "https://github.com/maxfahl/maxfahl-claude-market-place/tree/main/plugins/cc-plugins",
       "keywords": [
         "plugin-development",
         "validation",

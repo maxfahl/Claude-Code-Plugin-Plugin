@@ -4,9 +4,9 @@
 
 **A curated collection of high-quality Claude Code plugins for enhanced development workflows**
 
-[![Plugins](https://img.shields.io/badge/plugins-1-blue?style=for-the-badge)](https://github.com/maxfahl/Claude-Code-Plugin-Plugin)
+[![Plugins](https://img.shields.io/badge/plugins-1-blue?style=for-the-badge)](https://github.com/maxfahl/maxfahl-claude-market-place)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)](https://github.com/maxfahl/Claude-Code-Plugin-Plugin)
+[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)](https://github.com/maxfahl/maxfahl-claude-market-place)
 
 [Installation](#-installation) • [Plugins](#-available-plugins) • [Contributing](#-contributing) • [Support](#-support)
 
@@ -62,7 +62,7 @@ If you prefer to install individual plugins manually:
 
 2. Clone the marketplace repository:
    ```bash
-   git clone https://github.com/maxfahl/Claude-Code-Plugin-Plugin.git marketplace-maxfahl
+   git clone https://github.com/maxfahl/maxfahl-claude-market-place.git marketplace-maxfahl
    ```
 
 3. Restart Claude Code to load the plugins
@@ -75,9 +75,9 @@ If you prefer to install individual plugins manually:
 
 <div align="left">
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/maxfahl/Claude-Code-Plugin-Plugin)
-[![Tests](https://img.shields.io/badge/tests-413%20passing-brightgreen)](https://github.com/maxfahl/Claude-Code-Plugin-Plugin)
-[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)](https://github.com/maxfahl/Claude-Code-Plugin-Plugin)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/maxfahl/maxfahl-claude-market-place)
+[![Tests](https://img.shields.io/badge/tests-413%20passing-brightgreen)](https://github.com/maxfahl/maxfahl-claude-market-place)
+[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)](https://github.com/maxfahl/maxfahl-claude-market-place)
 
 </div>
 
@@ -159,7 +159,7 @@ All your installed plugins will automatically update to the latest versions.
 
 ### 🤝 Community Driven
 
-- **Open Issues**: [Report bugs or request features](https://github.com/maxfahl/Claude-Code-Plugin-Plugin/issues)
+- **Open Issues**: [Report bugs or request features](https://github.com/maxfahl/maxfahl-claude-market-place/issues)
 - **Contributions Welcome**: Submit your own plugins
 - **Active Maintenance**: Regular updates and improvements
 - **Responsive Support**: Get help when you need it
@@ -229,7 +229,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/maxfahl/Claude-Code-Plugin-Plugin.git
+git clone https://github.com/maxfahl/maxfahl-claude-market-place.git
 cd Claude-Code-Plugin-Plugin
 
 # Make your changes
@@ -254,8 +254,8 @@ Be respectful, inclusive, and constructive in all interactions.
 ### Get Help
 
 - 📖 **Documentation** - Check the [plugin docs](./plugins/)
-- 🐛 **Issues** - [Report bugs](https://github.com/maxfahl/Claude-Code-Plugin-Plugin/issues)
-- 💬 **Discussions** - [Ask questions](https://github.com/maxfahl/Claude-Code-Plugin-Plugin/discussions)
+- 🐛 **Issues** - [Report bugs](https://github.com/maxfahl/maxfahl-claude-market-place/issues)
+- 💬 **Discussions** - [Ask questions](https://github.com/maxfahl/maxfahl-claude-market-place/discussions)
 - 🌐 **Website** - [maxfahl.com](https://maxfahl.com)
 
 ### Stay Connected
